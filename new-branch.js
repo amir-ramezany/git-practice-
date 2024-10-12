@@ -3,5 +3,9 @@ function newBranch() {
 }
 
 alert("new branch");
-console.log("add from outside") 
-
+console.log("add from outside");
+/*  
+this a newbie code from dev-erif 
+and must be changed  
+*/
+const erifdev = "newbie code";
