@@ -6,4 +6,4 @@ console.log("add from outside");
 /*  
 its something that dev-amir commited  
 */
-const devAmir = "devAmir";
+const erifdev = "newbie code";
