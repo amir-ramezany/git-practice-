@@ -4,3 +4,4 @@ function WriteTest() {
 }
 console.log("add test");
 console.log("add extra console ");
+//implement code to fix bug
