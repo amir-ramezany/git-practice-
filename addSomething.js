@@ -1,4 +1,5 @@
 function addSomething() {
-  return console.log(288 * 5);
+  const num = 25;
+  return console.log(288 * 5, num);
 }
-/* this is a function that returns an operation log */
+/* this is new comment  */
